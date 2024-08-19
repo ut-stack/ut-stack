@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Utkarsh Tripathi and I'm a BTech IT Student from Gwalior.</h2>
+<h2 align="left">Hi 👋! My name is Utkarsh Tripathi and I'm a BTech IT Student .</h2>
 
 ###
 
